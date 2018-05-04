@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MjM2aHQ0cjFxcjY0YzdpNXA5NHJ1MG9sZmYgb2xlc25pa29uQG0&amp;tmsrc=olesnikon%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_ru.gif"></a>) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
