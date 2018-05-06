@@ -27,7 +27,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-[https://calendar.google.com/event?action=TEMPLATE&tmeid=NGI0YWdya2QwajFsNG5jN21sdXZjbWo1ZG0gb2xlc25pa29uQG0&tmsrc=olesnikon%40gmail.com](url) and ![Image](src)
+
+Посилання на подію https://calendar.google.com/event?action=TEMPLATE&tmeid=NGI0YWdya2QwajFsNG5jN21sdXZjbWo1ZG0gb2xlc25pa29uQG0&tmsrc=olesnikon%40gmail.com
 
 
 ### Jekyll Themes
